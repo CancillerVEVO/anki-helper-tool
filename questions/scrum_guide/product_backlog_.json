@@ -1,0 +1,23 @@
+[
+    {
+      "question": "¿Qué es el Product Backlog?",
+      "answer": "El Product Backlog es una lista emergente y ordenada de lo que se necesita para mejorar el producto. Es la única fuente de trabajo del Scrum Team."
+    },
+    {
+      "question": "¿Qué significa que un ítem del Product Backlog está 'ready'?",
+      "answer": "Un ítem está 'ready' cuando puede ser completado por el Scrum Team dentro de un Sprint, tras actividades de refinamiento."
+    },
+    {
+      "question": "¿Qué es el refinamiento del Product Backlog?",
+      "answer": "El proceso de descomponer y definir los elementos del Product Backlog en ítems más pequeños y precisos, agregando detalles como descripción, orden y tamaño."
+    },
+    {
+      "question": "¿Quién es responsable de definir el tamaño de los ítems del Product Backlog?",
+      "answer": "Los Developers que realizarán el trabajo son responsables de definir el tamaño de los ítems."
+    },
+    {
+      "question": "¿Qué es el Product Goal?",
+      "answer": "El Product Goal describe un estado futuro del producto y sirve como objetivo para que el Scrum Team planifique su trabajo."
+    }
+  ]
+  

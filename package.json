@@ -1,0 +1,23 @@
+{
+  "name": "anki-helper-tool",
+  "version": "1.0.0",
+  "description": "Herramienta para generar flash cards de anki mediante JSON",
+  "main": "index.js",
+  "dependencies": {
+    "anki-apkg-export": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CancillerVEVO/anki-helper-tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CancillerVEVO/anki-helper-tool/issues"
+  },
+  "homepage": "https://github.com/CancillerVEVO/anki-helper-tool#readme"
+}
